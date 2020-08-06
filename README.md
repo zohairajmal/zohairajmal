@@ -48,10 +48,10 @@
 [git]: https://git-scm.com
 [cpp]: https://cplusplus.com
 [c]: https://learn-c.org
-[azure]: 
-[bash]:
-[linux]:
-[tensorflow]:
-[terminal]:
+[azure]: https://azure.microsoft.com
+[bash]: https://gnu.org
+[linux]: https://linux.org
+[tensorflow]: https://tensorflow.org
+[terminal]: https://wikipedia.org/wiki/Terminal
 
 
