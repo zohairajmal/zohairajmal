@@ -4,7 +4,7 @@
 - 🔭 I’m currently doing an Internship!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to do cycling and play video games
+- ⚡ Some of my interests include: Cycling, Valve Games, Repairing, r/MechanicalKeyboards, r/sffpc, Finance & Investing
 
 ### Connect with me:
 
