@@ -1,7 +1,6 @@
 ### Hi there, I'm Zohair - [website] 👋
 
 ## I'm a Student, Developer, and Learner!
-- 🔭 I’m currently doing an Internship!
 - 🌱 I’m currently studying
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Some of my interests include: Cycling, Valve Games, Repairing, [r/MechanicalKeyboards], [r/sffpc], Finance & Investing
