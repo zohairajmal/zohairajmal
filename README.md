@@ -55,7 +55,7 @@
 [r/MechanicalKeyboards]: https://reddit.com/r/MechanicalKeyboards
 [r/sffpc]: https://reddit.com/r/sffpc
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohairajmal&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohairajmal&hide=html&hide_border=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=zohairajmal&color=blue)
 
