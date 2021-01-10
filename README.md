@@ -57,7 +57,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=zohairajmal&show_icons=true&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kittinunf&hide=html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohairajmal&hide=html)
 
 ![Profile views](https://komarev.com/ghpvc/?username=zohairajmal&color=blue)
 
